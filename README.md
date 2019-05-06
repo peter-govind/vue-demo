@@ -1,4 +1,5 @@
 # demo
+A simple Vue.js demo using TypeScript classes. It displays a component whose background turns red when a value in it goes negative
 
 ## Project setup
 ```
