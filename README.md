@@ -15,16 +15,7 @@ npm run serve
 ```
 npm run build
 ```
-
-### Run your tests
+Then go to
 ```
-npm run test
+http://localhost:8080/demo
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
