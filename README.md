@@ -1,5 +1,6 @@
-# demo
-A simple Vue.js demo using TypeScript classes. It displays a component whose background turns red when a value in it goes negative
+# Simple Vue.js demo using TypeScript classes
+![alt text](public/img/icons/msapplication-icon-144x144.png)
+Displays a component whose background turns red when a value in it goes negative
 
 ## Project setup
 ```
