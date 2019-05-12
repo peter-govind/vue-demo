@@ -1,5 +1,5 @@
 # Simple Vue.js demo using TypeScript classes
-![alt text](public/img/icons/msapplication-icon-144x144.png)
+![alt text](public/img/screenshot.png)
 Displays a component whose background turns red when a value in it goes negative
 
 ## Project setup
