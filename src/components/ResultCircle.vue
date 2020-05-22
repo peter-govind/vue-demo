@@ -70,8 +70,8 @@ export default class ResultCircle extends Vue {
   text-shadow: 3px 2px gray;
   vertical-align: middle;
   background-color:#77FF88;
-  border-radius: 10%;
-  padding:0.15em;
+  padding:0.1em 0.15em;
+  border-radius:0.2em;
 }
 .result-circle strong.negative {
   background-color:#FF7788;
